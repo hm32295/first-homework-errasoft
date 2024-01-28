@@ -1,0 +1,21 @@
+footer{
+    text-align: center;
+    background-color: #222;
+    color: blue;
+    padding: 1rem;
+    width: 100%;
+    margin-top: 1rem;
+    text-decoration: underline;
+    text-transform: capitalize;
+    cursor: pointer;
+
+}
+footer span{
+    color: #fff;
+    margin: 0 .3rem;
+    text-decoration: none;
+    display: inline-block;
+    cursor: text;
+
+
+}

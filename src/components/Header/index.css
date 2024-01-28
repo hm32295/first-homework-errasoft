@@ -1,0 +1,13 @@
+#Header{
+    background-color: blue;
+    color: #fff;
+    text-align: center;
+    padding: 2rem;
+    width: 500px;
+}
+@media (max-width : 560px) {
+    #Header {
+        width: 95%;
+    }
+    
+}
